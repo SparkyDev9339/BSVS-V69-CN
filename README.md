@@ -1,3 +1,7 @@
+**Русский** | [English](README_EN.md)
+
+---
+
 # BSVS — Brawl Stars China v69
 
 **Первый open-source релиз BSVS для китайской версии Brawl Stars (CN v69)!**
@@ -24,6 +28,10 @@ BSVS создаётся для энтузиастов **Brawl Stars China**, к�
 В текущем релизе можно подключить клиент к серверу, войти в профиль и открыть главное меню. Код проекта открыт для изучения, собственных дополнений и совместной разработки.
 
 Это **первый open-source релиз BSVS CN v69**. Мы будем рады участникам, которые помогут сделать проект лучше!
+
+## Скачать IPA-клиент (iOS)
+
+[Скачать IPA для Brawl Stars CN v69 (Google Drive)](https://drive.google.com/file/d/1eAK-HBi5Qo3dOUWGPS9Pprc7yHTWCdlU/view?usp=sharing)
 
 ## Как запустить
 

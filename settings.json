@@ -1,0 +1,11 @@
+{
+  "Port": 9339,
+  "DisableNagle": true,
+  "PrintEnabled": true,
+  "UseContentUpdater": false,
+  "Proxy": false,
+  "DumpPacket": false,
+  "DumpMajor": 64,
+  "Blacklist": [24109]
+}
+

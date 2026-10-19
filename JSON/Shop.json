@@ -1,0 +1,34 @@
+{
+    "Offers": [
+        {
+            "Rewards": [
+                {
+                    "ItemType": 76,
+                    "Amount": 1488,
+                    "CsvID": [
+                        0,
+                        0
+                    ],
+                    "SkinID": 0
+                }
+            ],
+            "ShopStyle": [
+                0,
+                0
+            ],
+            "Currency": 0,
+            "Cost": 0,
+            "Time": 461036,
+            "Claim": false,
+            "DailyOffer": false,
+            "OldPrice": 0,
+            "Text": "Eh Blyat",
+            "Background": "None",
+            "Processed": false,
+            "TypeBenefit": 0,
+            "Benefit": 0,
+            "OneTimeOffer": false,
+            "Claimed": false
+        }
+    ]
+}

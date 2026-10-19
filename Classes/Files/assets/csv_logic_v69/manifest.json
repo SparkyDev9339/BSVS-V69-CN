@@ -1,0 +1,12 @@
+{
+  "build": "CN 69.114.1",
+  "tables": {
+    "characters.csv": "70132924d68edd4d98e608ae745354e87767002e368bea964a3aa2b37eb8d97b",
+    "cards.csv": "ee19496295c9ea6f115aea9d843d06f5cc1a29a6c0838bf0eec6be059eb6fec5",
+    "skins.csv": "e973550cfb4b314b1f309dfa18cbac89a30482f5a2d89d5fdfd9fe3c4f44a841",
+    "skin_confs.csv": "eac82a6174095352818c26e44b7b9f48c771fb609a14128f518f0299ffe5a2c2",
+    "player_thumbnails.csv": "3da6b97307adab81540d5380e56caa294bf7885f8eba6a6b4b41724f050feb92",
+    "emotes.csv": "0a8c55f88296c9568a4d216cd3a7e8a19497f2bb315a51145bec74578b3cf730",
+    "skins.k2.csv": "9c39c1bb6822e192275a6099743af02c2527ee08443ec1713e7f966d0812bf3d"
+  }
+}

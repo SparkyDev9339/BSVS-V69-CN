@@ -1,0 +1,92 @@
+{
+    "Events": [
+        {
+            "Slot": 2,            
+            "TimeToEnd": 1729828150.1200643,
+            "Tokens": 10,
+            "XD": 1,
+            "ES": 0,
+            "MapID": 776,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 1,
+            "TimeToEnd": 1729871350.1278741,
+            "Tokens": 10,
+            "XD": 1,
+            "ES": 0,
+            "MapID": 739,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 4,
+            "TimeToEnd": 1729871350.1347044,
+            "Tokens": 10,
+            "XD": 1,
+            "ES": 0,
+            "MapID": 639,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 40,
+            "TimeToEnd": 1729871350.1347044,
+            "Tokens": 10,
+            "XD": 1,
+            "ES": 0,
+            "MapID": 4,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 36,
+            "TimeToEnd": 2769981350.3456142,
+            "Tokens": 10,
+            "XD": 1,
+            "ES": 1,
+            "MapID": 10,
+            "ClaimedTokens": [],
+            "ChampionShipInfo": {
+                "MaxWins": 3,
+                "ChoronosTextEntry": "GRUESOME!",
+                "LogicGemOffer": {
+                    "ID": 4,
+                    "Ammount": 1,
+                    "CsvID": [
+                        0,
+                        0
+                    ],
+                    "SkinID": 959
+                },
+                "ChronosFileEntry": {
+                    "scName": "411149f318b2c6781cf0a700adcb311428f25721",
+                    "scFile": "/8c36df85-7ddd-4121-99c1-96aa060729f8_contest_katana.sc"
+                }
+            }
+        },
+        {
+            "Slot": 38,
+            "TimeToEnd": 2759871350.3456142,
+            "Tokens": 10,
+            "XD": 1,
+            "ES": 1,
+            "MapID": 10,
+            "ClaimedTokens": [],
+            "ChampionShipInfo": {
+                "MaxWins": 3,
+                "ChoronosTextEntry": "GRUESOME!",
+                "LogicGemOffer": {
+                    "ID": 4,
+                    "Ammount": 1,
+                    "CsvID": [
+                        0,
+                        0
+                    ],
+                    "SkinID": 959
+                },
+                "ChronosFileEntry": {
+                    "scName": "411149f318b2c6781cf0a700adcb311428f25721",
+                    "scFile": "/8c36df85-7ddd-4121-99c1-96aa060729f8_contest_katana.sc"
+                }
+            }
+        }
+    ]
+}

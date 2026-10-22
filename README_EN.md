@@ -29,9 +29,10 @@ In the current release, a compatible client can connect to the server, access a 
 
 This is the **first open-source release of BSVS CN v69**. Contributions are welcome!
 
-## Download IPA Client (iOS)
+## Clients (iOS/ANDROID)
 
-[Download Brawl Stars CN v69 IPA (Google Drive)](https://drive.google.com/file/d/1eAK-HBi5Qo3dOUWGPS9Pprc7yHTWCdlU/view?usp=sharing)
+[IPA (Google Drive)](https://drive.google.com/file/d/1eAK-HBi5Qo3dOUWGPS9Pprc7yHTWCdlU/view?usp=sharing)
+[APK (Google Drive)](https://drive.google.com/file/d/1eK-FdlkO7AlOh0FOuSx6B6dGLCsup5gk/view?usp=sharing)
 
 ## Getting Started
 

@@ -31,8 +31,8 @@ This is the **first open-source release of BSVS CN v69**. Contributions are welc
 
 ## Clients (iOS/ANDROID)
 
-[IPA (Google Drive)](https://drive.google.com/file/d/1eAK-HBi5Qo3dOUWGPS9Pprc7yHTWCdlU/view?usp=sharing)
-[APK (Google Drive)](https://drive.google.com/file/d/1eK-FdlkO7AlOh0FOuSx6B6dGLCsup5gk/view?usp=sharing)
+- [IPA (Google Drive)](https://drive.google.com/file/d/1eAK-HBi5Qo3dOUWGPS9Pprc7yHTWCdlU/view?usp=sharing)
+- [APK (Google Drive)](https://drive.google.com/file/d/1eK-FdlkO7AlOh0FOuSx6B6dGLCsup5gk/view?usp=sharing)
 
 ## Getting Started
 
